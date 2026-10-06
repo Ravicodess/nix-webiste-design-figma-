@@ -1,0 +1,10 @@
+{
+  "description": "Empowers developers to enhance coding agents with verified context and memory through a local-first CLI tool supporting multiple AI agents for reliable code understanding.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
